@@ -1,0 +1,5 @@
+D:\CSharpWorkSpace\UserSystem_EasyUI_MVC_SQLite\UserSystem_EasyUI_MVC_SQLite.Model\bin\Debug\UserSystem_EasyUI_MVC_SQLite.Model.dll
+D:\CSharpWorkSpace\UserSystem_EasyUI_MVC_SQLite\UserSystem_EasyUI_MVC_SQLite.Model\bin\Debug\UserSystem_EasyUI_MVC_SQLite.Model.pdb
+D:\CSharpWorkSpace\UserSystem_EasyUI_MVC_SQLite\UserSystem_EasyUI_MVC_SQLite.Model\obj\Debug\UserSystem_EasyUI_MVC_SQLite.Model.csprojResolveAssemblyReference.cache
+D:\CSharpWorkSpace\UserSystem_EasyUI_MVC_SQLite\UserSystem_EasyUI_MVC_SQLite.Model\obj\Debug\UserSystem_EasyUI_MVC_SQLite.Model.dll
+D:\CSharpWorkSpace\UserSystem_EasyUI_MVC_SQLite\UserSystem_EasyUI_MVC_SQLite.Model\obj\Debug\UserSystem_EasyUI_MVC_SQLite.Model.pdb
